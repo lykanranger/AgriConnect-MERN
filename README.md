@@ -4,8 +4,7 @@ AgriConnect is a comprehensive web application built with the MERN stack (MongoD
 
 The project was built from the ground up, starting from a design document and evolving into a feature-complete application with secure authentication, role-based access control, a full suite of management tools for both farmers and admins, and a professional, responsive user interface.
 
-![AgriConnect Demo](path/to/your/screenshot.png) 
-*(Note: Replace this with a screenshot or GIF of your project!)*
+![AgriConnect Demo](s1.png)
 
 ---
 
